@@ -1,0 +1,3 @@
+tessss b;adesss<br>
+Param : <?php echo static::e($param); ?><br>
+Route : <?php echo static::e($route); ?>
